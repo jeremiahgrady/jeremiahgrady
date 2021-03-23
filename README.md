@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeremiahgrady
-- 👀 I’m interested in tech, family, video game design, the outdoors, & exercise
+- 👀 I’m interested in tech, family, video game design, drones, the outdoors, & exercise
 - 🌱 I’m currently learning javascript, HTML, CSS, Adobe After Effects, & Unreal Engine 
 - 💞️ I’m looking to help developers build secure code so I can continue to use all their cool applications
 - 📫 How to reach me: jeremiahgrady@gmail.com
